@@ -1,1 +1,2 @@
 openjdk:8
+elasticsearch:7.9.3
