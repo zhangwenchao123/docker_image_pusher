@@ -1,2 +1,1 @@
-rabbitmq:3.9.29-management
---platform=linux/arm64
+--platform linux/amd64 rabbitmq:3.9.29-management
