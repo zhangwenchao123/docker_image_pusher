@@ -1,1 +1,1 @@
---platform linux/amd64 opensearchproject/opensearch:2.19.1
+--platform linux/amd64 openjdk:17.0.2
