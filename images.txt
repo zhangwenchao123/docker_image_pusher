@@ -1,1 +1,1 @@
---platform linux/amd64 opensearch:2.19.1
+--platform linux/amd64 opensearchproject/opensearch:2.19.1
